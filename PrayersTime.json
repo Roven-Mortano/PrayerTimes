@@ -1,0 +1,44 @@
+{
+	"datetime":
+	[
+		{
+			"times":
+			{
+				"Imsak":"02:11",
+				"Sunrise":"04:25",
+				"Fajr":"02:21",
+				"Dhuhr":"11:58",
+				"Asr":"16:00",
+				"Sunset":"19:31",
+				"Maghrib":"19:48",
+				"Isha":"21:26",
+				"Midnight":"22:56"
+			},
+			"date":
+			{
+				"timestamp":1590278400,
+				"gregorian":"2020-05-24",
+				"hijri":"1441-10-01"
+			}
+		}
+	],
+	"location":
+	{
+		"latitude":43.225727,
+		"longitude":44.764641,
+		"elevation":333.0,
+		"country":"",
+		"country_code":"RU",
+		"timezone":"Europe/Moscow",
+		"local_offset":3.0
+	},
+	"settings":
+	{
+		"timeformat":"HH:mm",
+		"school":"Ithna Ashari",
+		"juristic":"Shafii",
+		"highlat":"None",
+		"fajr_angle":18.0,
+		"isha_angle":17.0
+	}
+}
